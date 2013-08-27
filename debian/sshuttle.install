@@ -1,0 +1,4 @@
+*.py usr/share/sshuttle/
+compat/*.py usr/share/sshuttle/compat/
+version/*.py usr/share/sshuttle/version/
+sshuttle usr/bin/

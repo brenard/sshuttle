@@ -1,0 +1,26 @@
+This package was written by Benjamin Renard form Sshuttle software sources
+available on project's github repository :
+
+https://github.com/apenwarr/sshuttle
+
+Sshuttle is writed and maintained by apenwarr <apenwarr@gmail.com>
+
+Copyright (C) 2013 Apenwarr
+ Authors: apenwarr <apenwarr@gmail.com>
+
+Sshuttle is licensed under the GNU general public license, version 2.
+
+Sshuttle is free software; you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation; either version 2, or (at your option) any later version.
+
+Sshuttle is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+Sshuttle; see the file COPYING.  If not, write to the Free Software
+Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA.
+
+On Debian systems, a copy of the GNU General Public License is available in
+/usr/share/common-licenses/GPL-2 as part of the base-files package.

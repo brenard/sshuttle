@@ -1,0 +1,12 @@
+Source: sshuttle
+Section: admin
+Priority: optional
+Maintainer: Benjamin Renard <brenard@zionetrix.net>
+Build-Depends: debhelper (>> 5.0.0), quilt, python-markdown
+Standards-Version: 3.8.0
+
+Package: sshuttle
+Architecture: all
+Description: Transparent proxy server that works as a poor man's VPN
+ Transparent proxy server that works as a poor man's VPN. Forwards over ssh.
+ Doesn't require admin.

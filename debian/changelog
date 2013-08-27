@@ -1,0 +1,5 @@
+sshuttle (0.61-4-g9ce2fa0) unstable; urgency=low
+
+  * Initial debian package with 0.61-4-g9ce2fa0 version of sshuttle
+
+ -- Benjamin Renard <brenard@easter-eggs.com>  Tue, 27 Aug 2013 11:11:41 +0200
